@@ -1,0 +1,3 @@
+== Simple Countries API
+
+Written as a quick BDD development flow example on a "Testing in Ruby" workshop.
